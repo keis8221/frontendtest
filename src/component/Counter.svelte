@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="ts" type="module">
   export let deleted: boolean;
   export let count: number;
 

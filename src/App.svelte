@@ -1,4 +1,4 @@
-<script lang="ts">
+<script lang="ts" type="module">
   import Counter from './component/Counter.svelte'; 
 
   interface Counter{
